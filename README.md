@@ -29,6 +29,8 @@ I'm a passionate **Full Stack Developer** with a knack for building dynamic and 
 
 ![Messaoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MessaKami&show_icons=true&theme=dark)
 
+![](https://github-profile-trophy.vercel.app/?username=MessaKami&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
 ## 📫 How to Reach Me
 
 - 📧 Email: [messaoud.houri@outlook.fr](mailto:messaoud.houri@outlook.fr)
