@@ -5,7 +5,8 @@ I'm a passionate **Full Stack Developer** with a knack for building dynamic and 
 ## 🚀 About Me
 
 - 💻 Currently working as a Full Stack Developer.
-- 🌐 Proficient in **PHP** with **Symfony**, **JavaScript** with **React**, and **Node.js**.
+- 🌐 Proficient in **PHP** with **Symfony**, **JavaScript** with **React**, **Java** with **Spring**, **Angular**, and **Node.js**.
+- 🤖 Currently developing a Discord bot using **NestJS** for the API
 - 💾 Experienced with **MySQL** and **MongoDB** databases.
 - 📚 Continuously learning and exploring new technologies.
 - 🎯 Focused on writing clean, efficient, and maintainable code.
@@ -16,8 +17,11 @@ I'm a passionate **Full Stack Developer** with a knack for building dynamic and 
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -38,9 +42,11 @@ I'm a passionate **Full Stack Developer** with a knack for building dynamic and 
 
 ## 🌱 Currently Learning
 
-- Advanced concepts in **Node.js** and **React**.
-- Exploring **TypeScript** and its applications.
-- Diving deeper into **NoSQL** databases.
+- Advanced concepts in **Node.js** and **React**
+- Exploring **TypeScript** and its applications
+- Diving deeper into **NoSQL** databases
+- Mastering **Spring Boot** and **Angular** development
+- Building scalable applications with **NestJS**
 
 ## 🤝 Let's Connect!
 
@@ -48,5 +54,5 @@ I'm open to collaboration on exciting projects and ideas. Feel free to reach out
 
 ---
 
-⭐️ From [MessaKami](https://github.com/MessaKami)
+⭐️ From [MessaKami](https://github.com/MessaKami) 
 
